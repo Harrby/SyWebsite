@@ -8,10 +8,12 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-text-stroke: 0 !important;
   }
   
+  
   body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     color: #333;
     background-color: #f2f2f2;
   }
